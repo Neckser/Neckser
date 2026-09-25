@@ -45,5 +45,3 @@
 ### **Инструменты:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-2496ED?style=for-the-badge&logo=github-actions&logoColor=white)
-
----
